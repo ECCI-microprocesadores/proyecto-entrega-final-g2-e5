@@ -2,17 +2,19 @@
 # Proyecto final
 
 ## Integrantes
-
-
+sergio nicolas moreno pulido
+steven caro bernal Carlos Andrés
+Castañeda Delgado
 ## Nombre del proyecto: 
-
-
+JUEGO DE ESTRELLA
+QUE ESQUIVA
 ## Documentación
 
 
 ## Diagramas
-
-
+![alt text](image.png)
+![alt text](<Imagen de WhatsApp 2025-05-27 a las 11.35.03_d018178e.jpg>)
+<video controls src="Video de WhatsApp 2025-05-27 a las 11.35.16_01c44fc2.mp4" title="Title"></video>
 ## Conclusiones
 
 
